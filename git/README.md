@@ -22,7 +22,8 @@
     - I: 從 remote repository 取回建立成新的 working folder
     - J: 將 git working folder 變回一般目錄
 
-- [Jeff擬答]
+#### Jeff擬答
+- 上述的<Other one>的D,E覺得怪怪的，不應該是其他人的remote repository節點嗎？
 ![](https://i.imgur.com/GCFcF4Q.png)
 - Q3. 做這個題目，你事前評估做了什麼、利用了哪些資源、排程為何、事後怎麼驗收、得到什麼經驗？
   - 閱讀高見龍<<為你自己學 Git>>
